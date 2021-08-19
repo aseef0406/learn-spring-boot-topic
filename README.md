@@ -1,2 +1,2 @@
 # learn-spring-boot-topic
-Learnign Spring Boot by Creating Basic crud operations based apllication
+Learnign Spring Boot by Creating Basic crud operations based application.
